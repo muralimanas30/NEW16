@@ -70,6 +70,10 @@
         scale: 1.145;
 
     }
+    #mm{
+        animation-range-start:60%;
+        animation-range-end:95% ;
+    }
 
     
 }

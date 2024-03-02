@@ -1,4 +1,4 @@
-const loader_page=document.getElementsByClassName("LOADER")[0];
+const loader_page=document.getElementById("LOADER");
 console.log(loader_page);
 
 document.addEventListener("DOMContentLoaded", fadeLoader);

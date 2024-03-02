@@ -3,18 +3,18 @@ html,*{
     scroll-behavior: smooth;
 }
 
-.LOADER{
-    color: whitesmoke;
-    justify-content: center;
-    display: flex;align-items: center;
-    position: absolute;
-    height: 100vh;
-    width: 100%;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #0f0f0f;
-    z-index: 10000;
+#LOADER{
+   color: whitesmoke;
+   justify-content: center;
+   display: flex;align-items: center;
+   position: absolute;
+   height: 100vh;
+   width: 100%;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: #0f0f0f;
+   z-index: 10000;
 }
-.LOADER > * {
+#LOADER > * {
 
     width: fit-content;
     background-color: rgb(26, 26, 26);
